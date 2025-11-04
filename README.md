@@ -6,15 +6,19 @@
 
 **sudo** | Executes commands with administrative privileges.
 
-**find / -name ""** | Searches for files or directories by name.
+**find / -name "xx"** | Searches for files or directories by name.
 
 **ps aux** | Display detailed information about all running processes.
 
-**grep** | Searches for patterns within text or command output.
+**grep "xx"** | Searches for patterns within text or command output.
 
 **head** | Display the first lines of a file or command output.
 
-**tail** | Display the last lines of a file or command output (`-f` to follow updates in real time, `>` to creat a .txt with the output).
+**tail** | Display the last lines of a file or command output (`-f` to follow updates in real time, `>` to create a `.txt` file with the output).
+
+**diff** | Compares two files line by line and shows the differences.
+
+**chmod** | Changes the permissions of a file or directory.
 
 **tar -czf** | Compress files into a `.tar.gz`archive.
 
