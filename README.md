@@ -20,6 +20,8 @@
 
 **find / -name "xx"** | Searches for files or directories by name.
 
+**top** | Display a real-time view of system performance (active processes, CPU and memory usage).
+
 **ps aux** | Display detailed information about all running processes.
 
 **grep "xx"** | Searches for patterns within text or command output.
@@ -39,5 +41,4 @@
 **tar -czf** | Compress files into a `.tar.gz`archive.
 
 **tar -xzf** | Extract files from a `.tar.gz` archive.
-
 
