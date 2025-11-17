@@ -1,4 +1,4 @@
-## USEFUL AND VERSATILE LINUX COMMANDS
+## USEFUL AND VERSATILE LINUX COMMANDS :penguin:
 
 **pwd** | Prints the current working directory.
 
@@ -18,9 +18,11 @@
 
 **echo** | Prints text to the terminal.
 
+**su [username]** | Switch to another user account.
+
 **sudo** | Executes commands with administrative privileges.
 
-**find / -name [name]** | Searches for files or directories by name.
+**find [/ -name]** | Searches for files or directories by name.
 
 **top** | Display a real-time view of system performance (active processes, CPU and memory usage).
 
@@ -36,8 +38,6 @@
 
 **diff** | Compares two files line by line and shows the differences.
 
-**chmod** | Changes the permissions of a file or directory.
-
 **mkdir** | Creates a new directory in the file system.
 
 **touch** | Creates a new empty file or updates the timestamp of an existing file.
@@ -46,7 +46,25 @@
 
 **tar -xzf** | Extract files from a `.tar.gz` archive.
 
+## PERMISSIONS :closed_lock_with_key:
+
+---
+
+**chmod** | Changes the permissions of a file or directory.
+
+**adduser [username]** | Creates a new user account. 
+
+**usermod** | Modify an existing user account (`-l` to change the login name, `-d` to change the home directory).
+
 **passwd** | Used to change a user's password.
 
-**groups** | Display the groups a user belongs to.
+**userdel [username]** | Deletes a user account from the system.
+
+**groupadd [groupname]** | Create a new group.
+
+**groupmod** | Modify an existig group, similar to usermod (`-n` to change the name of a group, `-g` to change the GID of a group.)
+
+**groupdel [groupname]** | Deletes an existing group from the system.
+
+**groups [username]** | Display the groups a user belongs to.
 
