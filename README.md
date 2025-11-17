@@ -1,6 +1,6 @@
-# Useful and Versatile Linux Commands:penguin:
+# :penguin: Useful and Versatile Linux Commands
 
-> **Developed By:** Victor Vital https://www.linkedin.com/in/victorvitall
+> **:bust_in_silhouette: Developed By:** Victor Vital https://www.linkedin.com/in/victorvitall
 
 ## Files and Directories :open_file_folder:
 
