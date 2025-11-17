@@ -1,4 +1,10 @@
-## USEFUL AND VERSATILE LINUX COMMANDS :penguin:
+# Useful and Versatile Linux Commands:penguin:
+
+> **Developed By:** Victor Vital https://www.linkedin.com/in/victorvitall
+
+## Files and Directories :open_file_folder:
+
+---
 
 **pwd** | Prints the current working directory.
 
@@ -18,9 +24,17 @@
 
 **echo** | Prints text to the terminal.
 
-**su [username]** | Switch to another user account.
+**mkdir** | Creates a new directory in the file system.
 
-**sudo** | Executes commands with administrative privileges.
+**touch** | Creates a new empty file or updates the timestamp of an existing file.
+
+**tar -czf** | Compress files into a `.tar.gz`archive.
+
+**tar -xzf** | Extract files from a `.tar.gz` archive.
+
+## Processes :gear:
+
+---
 
 **find [/ -name]** | Searches for files or directories by name.
 
@@ -38,19 +52,15 @@
 
 **diff** | Compares two files line by line and shows the differences.
 
-**mkdir** | Creates a new directory in the file system.
-
-**touch** | Creates a new empty file or updates the timestamp of an existing file.
-
-**tar -czf** | Compress files into a `.tar.gz`archive.
-
-**tar -xzf** | Extract files from a `.tar.gz` archive.
-
 ## PERMISSIONS :closed_lock_with_key:
 
 ---
 
 **chmod** | Changes the permissions of a file or directory.
+
+**su [username]** | Switch to another user account.
+
+**sudo** | Executes commands with administrative privileges.
 
 **adduser [username]** | Creates a new user account. 
 
