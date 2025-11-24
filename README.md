@@ -52,11 +52,13 @@
 
 **diff** | Compares two files line by line and shows the differences.
 
-## PERMISSIONS :closed_lock_with_key:
+## Permissions :closed_lock_with_key:
 
 ---
 
 **chmod** | Changes the permissions of a file or directory.
+
+**chown** | Changes the owner or group of a file or directory.
 
 **su [username]** | Switch to another user account.
 
