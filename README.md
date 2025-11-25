@@ -52,9 +52,22 @@
 
 **diff** | Compares two files line by line and shows the differences.
 
+## Users and Sessions :bust_in_silhouette:
+
+---
+
+**whoami** | Shows your current username.
+
+**who** | Shows who is currently logged in.
+
+**w** | Shows logged-in users and their activity.
+
+**id** | Shows your UID, GID and group membership.
+
 ## Permissions :closed_lock_with_key:
 
 ---
+
 
 **chmod** | Changes the permissions of a file or directory.
 
