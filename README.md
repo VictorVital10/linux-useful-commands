@@ -79,7 +79,7 @@
 
 **adduser [username]** | Creates a new user account. 
 
-**usermod** | Modify an existing user account (`-l` to change the login name, `-d` to change the home directory).
+**usermod** | Modify an existing user account (`-l` to change the login name, `-d` to change the home directory, `-aG` adds a user to a new group without removing existing groups).
 
 **passwd** | Used to change a user's password.
 
